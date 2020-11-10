@@ -1,0 +1,26 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+logs
+project/project
+project/target
+target
+tmp
+.history
+dist
+/.idea
+/*.iml
+/out
+/.idea_modules
+/.classpath
+/.project
+/RUNNING_PID
+/.settings
+.sass-cache
+.ensime
+/.ensime_lucene
+/.bundle
+/vendor
+*.DS_Store
+projectFilesBackup*
+*.pem
